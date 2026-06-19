@@ -30,7 +30,7 @@ python -m uvicorn Fast_API:app --reload
 Open Swagger Docs:
 
 ```text
-http://127.0.0.1:8000/docs
+[http://127.0.0.1:8000/docs](https://patient-management-api-fastapi-2.onrender.com/)
 ```
 
 ## Author
